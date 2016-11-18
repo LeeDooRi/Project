@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voyager Android.CSharp", "Voyager Android.CSharp.csproj", "{93CADB4C-4E43-15AE-D4D3-67F02684BE8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voyager Android.CSharp.Editor", "Voyager Android.CSharp.Editor.csproj", "{6DB32B1B-9040-8D6A-07AD-87B0C2934636}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93CADB4C-4E43-15AE-D4D3-67F02684BE8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93CADB4C-4E43-15AE-D4D3-67F02684BE8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93CADB4C-4E43-15AE-D4D3-67F02684BE8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93CADB4C-4E43-15AE-D4D3-67F02684BE8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DB32B1B-9040-8D6A-07AD-87B0C2934636}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DB32B1B-9040-8D6A-07AD-87B0C2934636}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DB32B1B-9040-8D6A-07AD-87B0C2934636}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DB32B1B-9040-8D6A-07AD-87B0C2934636}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
